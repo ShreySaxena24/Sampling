@@ -17,3 +17,6 @@
 | 2  | Random Forest | 98.876404 |	98.979592 |	96.103896 |	100.000000 | 96.0 |
 | 3  | Gaussian Naive Bayes	| 76.029963 | 75.000000 | 77.922078 | 77.777778 | 78.0 | 
 | 4 | KNN | 98.127341 | 95.918367 | 92.207792 | 86.666667 | 88.0 |
+
+## Discussion
+On comparison, we can see that when we apply `Random Forest Algorithm` on `cluster sampling `, we get the highest accuracy.
