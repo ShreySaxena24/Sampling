@@ -1,4 +1,15 @@
 # Sampling- 102183040
+
+## Methods of Sampling
+
+1. Simple Random
+2. Stratified
+3. Systematic
+4. Cluster
+5. Multi-Stage
+
+## Final Table
+
 |    |  Models | Simple Random | Stratified | Systematic | Cluster | Multi-Stage |
 |----|----------|-------|-------|-----------|------------|---------|
 | 0  | Logistic Regression	| 91.011236 |	91.326531 |	79.220779 |	88.148148 |	92.0 |
